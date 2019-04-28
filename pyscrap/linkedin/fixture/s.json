@@ -1,0 +1,2251 @@
+{
+  "data": {
+    "*profile": "urn:li:fs_profile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "summaryTreasuryMediaCount": 1,
+    "*summaryTreasuryMedias": [
+      "urn:li:fs_treasuryMedia:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1555049186344)"
+    ],
+    "*patentView": "urn:li:fs_patentView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*honorView": "urn:li:fs_honorView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*educationView": "urn:li:fs_educationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*volunteerExperienceView": "urn:li:fs_volunteerExperienceView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*volunteerCauseView": "urn:li:fs_volunteerCauseView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "$type": "com.linkedin.voyager.identity.profile.ProfileView",
+    "*testScoreView": "urn:li:fs_testScoreView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*skillView": "urn:li:fs_skillView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*projectView": "urn:li:fs_projectView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "entityLocale": null,
+    "entityUrn": "urn:li:fs_profileView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*certificationView": "urn:li:fs_certificationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*languageView": "urn:li:fs_languageView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*courseView": "urn:li:fs_courseView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*publicationView": "urn:li:fs_publicationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*positionGroupView": "urn:li:fs_positionGroupView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "primaryLocale": {
+      "country": "US",
+      "language": "en",
+      "$type": "com.linkedin.common.Locale"
+    },
+    "*organizationView": "urn:li:fs_organizationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+    "*positionView": "urn:li:fs_positionView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4"
+  },
+  "included": [
+    {
+      "objectUrn": "urn:li:company:13286039",
+      "entityUrn": "urn:li:fs_miniCompany:13286039",
+      "name": "Aristi Jasadata",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=t_v_Pc1Qx5z2yXj_DBHfRC-ok-HW1DdphGWDcMOM1oI",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=RL9tLgDTyTZaXfC2OUJnCinE2tN1iP71jAHc3ZBXiv8",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=pbRF2eoyrNcF0wJSo7urXLe8aJUpozQ1XxvH7VxmH9k",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C510BAQEaMqnnVgv3Lg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "HGqgiks/T8qcDrA540uvCQ==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:13256769",
+      "entityUrn": "urn:li:fs_miniCompany:13256769",
+      "name": "COMPFEST",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=-kqMnDb2OQnQo3sf5HWsReiQ1pJ3wMIkyHCJSqpS_9Q",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=R9MJktT-i8ea2i_UdY_xV5HVaqsTIk8RSf7YhtwxRHM",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=JHZZNOYOTjGRRQsR0vj5_LkWMu-rOTYCV0rycK5hOSU",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C510BAQFhYGNQ4BrEZw/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "xKuJ+vDtR+GU6wI8zpUoIg==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:1111713",
+      "entityUrn": "urn:li:fs_miniCompany:1111713",
+      "name": "University of Indonesia",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=c9MwQ6a0x1pUV7GfjGlW6cTtk9C9UlT3k3u6AN61fQE",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=DWCjDMPbtDniBZFrgxVXVt7CI-kmF0c4vR5V2koHjZM",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=ZZyK5xCmrDFy8VDlCKggsBiD4I0Oc0mCKE139gJUNEw",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "1JPMYT1dRamy4JM5VQMk8Q==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:18750856",
+      "entityUrn": "urn:li:fs_miniCompany:18750856",
+      "name": "adaTeman",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=9rrrYiCsHCeYMOZjJ0yw4cPaS3pKY65qXdBgNkdJXqU",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=zyIZVnMZti-Bzw0kJcM8ZfTBtGijWkmE-gX8vgLiorw",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=bDKYHn3Dx-hE4aOga2XuyMQyIJgLCJHnfBdTxWy4DFU",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C510BAQGm8gZ842cG8Q/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "P0zAX/8qR1WrrVZVFPUsFw==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:13580516",
+      "entityUrn": "urn:li:fs_miniCompany:13580516",
+      "name": "Computers Get Together",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=KOvi5nNC9A1EpwreGMmOw4gNbzlRLyDVohAiq1G4D9I",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=nyN07_j_9QPjPU-0W04quVQNuG2n5bQ6DKnR616f8eQ",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=fT_BHpjIuu5Zp_1xKf6TEU4Ih0kkVFaV1BmU1m3dpQU",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGJNcqoWz1Sug/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "2eVbC1vdRfaLe4EswY3oRg==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:2135950",
+      "entityUrn": "urn:li:fs_miniCompany:2135950",
+      "name": "GOJEK",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=g_L4VDQPkSlYclTd6oWIuz08zpcKM2ZVxT3WTA5XdXA",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=MSmMPn1u4BgLx2CWcXnDIgjajnUEwUqwEFyOsIGpXsY",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=Iy5bpp-edK40yD0ybsph-pMFTDnYkdHbbRFukdBBqgE",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C560BAQHWAibJshwNLg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "nVL2V8CXQiakG39048Allg==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:company:11527071",
+      "entityUrn": "urn:li:fs_miniCompany:11527071",
+      "name": "Callus Studio",
+      "showcase": false,
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=hN4bN4S83lcXIvd9I28ij8Ay9gKdXxALJQEdKExg4Vw",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=bFa2gTigj_VO0hxTvaQ1rP5GY9cQJJsMXaVB806rjIc",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=rEZWv63QjPwsVeOFW9pbiQ3QPGcEpBkG2HP37CraAjQ",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C510BAQF7b97QO9caEg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "universalName": null,
+      "trackingId": "be9CnS/ER0eMll0TWlESjw==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+    },
+    {
+      "objectUrn": "urn:li:school:13054",
+      "entityUrn": "urn:li:fs_miniSchool:13054",
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=c9MwQ6a0x1pUV7GfjGlW6cTtk9C9UlT3k3u6AN61fQE",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=DWCjDMPbtDniBZFrgxVXVt7CI-kmF0c4vR5V2koHjZM",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=ZZyK5xCmrDFy8VDlCKggsBiD4I0Oc0mCKE139gJUNEw",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D0BAQE_PrK97K5Veg/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "schoolName": "University of Indonesia",
+      "trackingId": "lCS40y/ZS5m02R2CyUBogQ==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniSchool"
+    },
+    {
+      "objectUrn": "urn:li:school:3154258",
+      "entityUrn": "urn:li:fs_miniSchool:3154258",
+      "active": true,
+      "logo": {
+        "artifacts": [
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1564617600&amp;v=beta&amp;t=o7RkyQhRLQkoKKp2DikSbAqPsH6UuBvXbc6gqMei8CA",
+            "expiresAt": 1564617600000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1564617600&amp;v=beta&amp;t=7g5UQWp-7_CHKpJaYOaHbsmUyTU6-peU2BGJeH6wlXE",
+            "expiresAt": 1564617600000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1564617600&amp;v=beta&amp;t=kfjsgx0eMx1osKerkcnzncpq3Herd_2pgY4A2ncPrAI",
+            "expiresAt": 1564617600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHtSf8Fe4Hm0A/company-logo_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "schoolName": "Labschool Kebayoran",
+      "trackingId": "sk4DEyMkQzSlXcGauKDuqA==",
+      "$type": "com.linkedin.voyager.entities.shared.MiniSchool"
+    },
+    {
+      "entityUrn": "urn:li:fs_certificationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.CertificationView"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209864787)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203420266)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACUgmPMB4q0n6kPK0_6LOpp73UExIIMNceA",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACUgmPMB4q0n6kPK0_6LOpp73UExIIMNceA",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209863836)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,214592457)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACqXOswBtxzFNtqRsGeGCFM8hOERMFT3ky8",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACqXOswBtxzFNtqRsGeGCFM8hOERMFT3ky8",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221233386)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACMp--kBs7tSFZli-U8crprOGHv_7PSzDWk",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACMp--kBs7tSFZli-U8crprOGHv_7PSzDWk",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221235323)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACigCCUBSNSDNxLJhBjzZb7Kzppt6gDB5r0",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACigCCUBSNSDNxLJhBjzZb7Kzppt6gDB5r0",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203417818)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209866147)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACOVduEBDVUudVFbDG1NMqoh2wSENDqwNcw",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACOVduEBDVUudVFbDG1NMqoh2wSENDqwNcw",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209866139)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAAB464msB8g2sRdWix2kZ0nL5MG70X0oKOQ8",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAAB464msB8g2sRdWix2kZ0nL5MG70X0oKOQ8",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221232860)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAAA8ky00BNKba7ltHzi5TN8UrdSlUSCdZ9f4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAAA8ky00BNKba7ltHzi5TN8UrdSlUSCdZ9f4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203420372)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACfNHLMBtBqVtZ1Dc6MnNg4TRTrWjU84Tx8",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACfNHLMBtBqVtZ1Dc6MnNg4TRTrWjU84Tx8",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209864793)",
+      "name": "Nathanael Lemuella",
+      "member": null,
+      "profileUrn": null,
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203417819)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAAB4gtbQB6_5GWC_J5gB9AAZ5zEqbClIrw2U",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAAB4gtbQB6_5GWC_J5gB9AAZ5zEqbClIrw2U",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209866148)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACHJpmIB2J3K4zX2B8YaFpTy7uv0HVP0bHA",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACHJpmIB2J3K4zX2B8YaFpTy7uv0HVP0bHA",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203418469)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACatZd4B7J8r8_6sKiMteVGEgEX9uIjSJ7U",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACatZd4B7J8r8_6sKiMteVGEgEX9uIjSJ7U",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209863830)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACV4wHEB_xCGEIMQEOR4iBShoNCN84lIvZc",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACV4wHEB_xCGEIMQEOR4iBShoNCN84lIvZc",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203417720)",
+      "name": "Nauli",
+      "member": null,
+      "profileUrn": null,
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203420371)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAAB464msB8g2sRdWix2kZ0nL5MG70X0oKOQ8",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAAB464msB8g2sRdWix2kZ0nL5MG70X0oKOQ8",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209864792)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACI95NsBdvRyhvc8xc9fALqzwsZfz1o8hWk",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACI95NsBdvRyhvc8xc9fALqzwsZfz1o8hWk",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209866140)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACDDQPEBOZfQASRdNGsrNndjVzsluIlVGws",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACDDQPEBOZfQASRdNGsrNndjVzsluIlVGws",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1415205623,134125897)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221233385)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203418468)",
+      "name": null,
+      "*member": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "$type": "com.linkedin.voyager.identity.profile.Contributor"
+    },
+    {
+      "entityUrn": "urn:li:fs_courseView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.CourseView"
+    },
+    {
+      "courses": null,
+      "projects": [
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108)"
+      ],
+      "description": null,
+      "degreeName": "Bachelor's degree",
+      "recommendations": null,
+      "honors": [
+        "urn:li:fs_honor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550535665)"
+      ],
+      "schoolUrn": "urn:li:fs_miniSchool:13054",
+      "$type": "com.linkedin.voyager.identity.profile.Education",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+      "activities": "SISTEM Fasilkom UI (information systems R&amp;D organization) , Executive Student Board member, organized COMPFEST, Teaching Assistant, Freshmen Orientation mentor",
+      "grade": null,
+      "timePeriod": {
+        "endDate": { "year": 2020, "$type": "com.linkedin.common.Date" },
+        "startDate": { "year": 2016, "$type": "com.linkedin.common.Date" },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101468",
+      "*school": "urn:li:fs_miniSchool:13054",
+      "testScores": null,
+      "schoolName": "University of Indonesia",
+      "fieldOfStudy": "Information Systems",
+      "degreeUrn": "urn:li:fs_degree:200"
+    },
+    {
+      "courses": null,
+      "projects": [
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1415205623)"
+      ],
+      "description": null,
+      "degreeName": null,
+      "recommendations": null,
+      "honors": null,
+      "schoolUrn": "urn:li:fs_miniSchool:3154258",
+      "$type": "com.linkedin.voyager.identity.profile.Education",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418737540)",
+      "activities": "organized SKYAVENUE",
+      "grade": null,
+      "timePeriod": {
+        "endDate": { "year": 2016, "$type": "com.linkedin.common.Date" },
+        "startDate": { "year": 2013, "$type": "com.linkedin.common.Date" },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "*school": "urn:li:fs_miniSchool:3154258",
+      "fieldOfStudyUrn": null,
+      "testScores": null,
+      "schoolName": "Labschool Kebayoran",
+      "fieldOfStudy": null,
+      "degreeUrn": null
+    },
+    {
+      "entityUrn": "urn:li:fs_educationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 2,
+        "start": 0,
+        "count": 3,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+        "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418737540)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.EducationView"
+    },
+    {
+      "occupation": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+      "entityUrn": "urn:li:fs_honor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550535665)",
+      "description": "As a team of three named Bookpeace, presented third best document solution of \"ship port dwelling time problem case\" by designing a application \"INTERSYS\"",
+      "title": "3rd Place of National Business and Social IT Case Competition",
+      "issueDate": {
+        "month": 4,
+        "year": 2017,
+        "$type": "com.linkedin.common.Date"
+      },
+      "issuer": "FTIF Festival ITS",
+      "$type": "com.linkedin.voyager.identity.profile.Honor"
+    },
+    {
+      "entityUrn": "urn:li:fs_honorView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_honor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550535665)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.HonorView"
+    },
+    {
+      "entityUrn": "urn:li:fs_language:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550964425)",
+      "name": "English",
+      "proficiency": "PROFESSIONAL_WORKING",
+      "$type": "com.linkedin.voyager.identity.profile.Language"
+    },
+    {
+      "entityUrn": "urn:li:fs_language:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550945111)",
+      "name": "Bahasa Indonesia",
+      "proficiency": "NATIVE_OR_BILINGUAL",
+      "$type": "com.linkedin.voyager.identity.profile.Language"
+    },
+    {
+      "entityUrn": "urn:li:fs_languageView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 2,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_language:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550945111)",
+        "urn:li:fs_language:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550964425)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.LanguageView"
+    },
+    {
+      "occupation": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+      "entityUrn": "urn:li:fs_organization:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,108626392)",
+      "name": "SISTEM Fasilkom UI",
+      "timePeriod": {
+        "startDate": {
+          "month": 1,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "SISTEM is Universitas Indonesia's organization focusing on information systems core competences research and development",
+      "position": "Vice President of Management Divison",
+      "$type": "com.linkedin.voyager.identity.profile.Organization"
+    },
+    {
+      "occupation": null,
+      "entityUrn": "urn:li:fs_organization:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550338945)",
+      "name": "BEM Fasilkom UI 2017",
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": null,
+      "position": "Staff of Strategic Action and Studies Department",
+      "$type": "com.linkedin.voyager.identity.profile.Organization"
+    },
+    {
+      "entityUrn": "urn:li:fs_organizationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 2,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_organization:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,108626392)",
+        "urn:li:fs_organization:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,550338945)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.OrganizationView"
+    },
+    {
+      "entityUrn": "urn:li:fs_patentView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.PatentView"
+    },
+    {
+      "courses": null,
+      "projects": [
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827)"
+      ],
+      "locationName": null,
+      "geoUrn": null,
+      "companyName": "Callus Studio",
+      "description": "Callus Studio is a Depok based software house specializing in web development by a group of Fasilkom UI students. We power your business needs with technology.\nNotable client(s): iksiui.com &amp; ihamask.com\nTechnology: Laravel, Django and jQuery",
+      "title": "Freelance Front End Developer",
+      "companyUrn": "urn:li:fs_miniCompany:11527071",
+      "recommendations": null,
+      "honors": null,
+      "$type": "com.linkedin.voyager.identity.profile.Position",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325324293)",
+      "geoLocationName": null,
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "organizations": null,
+      "company": {
+        "employeeCountRange": {
+          "start": 2,
+          "end": 10,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": ["Computer Software"],
+        "*miniCompany": "urn:li:fs_miniCompany:11527071",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "region": null,
+      "promotion": null
+    },
+    {
+      "courses": null,
+      "locationName": null,
+      "projects": null,
+      "geoUrn": null,
+      "companyName": "Aristi Jasadata",
+      "description": "Project based intern to fulfill Information System Development Project Course (6 Credits). Developing a monitoring and billing platform for PT Aristi Jasadata's core banking system. at Universitas Indonesia. Implemented an automated data pipeline to capture transactional data for analytical use. Lead a team of 5 as a lead software developer in the team.\nTechnology: Java, Spring Jersey REST Framework, Quartz Scheduler, tablesaw library and Angular.js",
+      "title": "Project Intern",
+      "companyUrn": "urn:li:fs_miniCompany:13286039",
+      "recommendations": null,
+      "honors": null,
+      "$type": "com.linkedin.voyager.identity.profile.Position",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1430087953)",
+      "geoLocationName": null,
+      "timePeriod": {
+        "startDate": {
+          "month": 3,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "organizations": null,
+      "company": {
+        "employeeCountRange": {
+          "start": 11,
+          "end": 50,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": ["Information Technology and Services"],
+        "*miniCompany": "urn:li:fs_miniCompany:13286039",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "region": null,
+      "promotion": null
+    },
+    {
+      "courses": null,
+      "locationName": "Greater Jakarta Area, Indonesia",
+      "projects": null,
+      "geoUrn": null,
+      "companyName": "GOJEK",
+      "description": "Brought #impactatscale through technology. Built GOJEK's collaborative tool between data science, marketplace, and business intelligence division. Worked at data science team to improve GOJEK's internal monitoring and experimentation platform. \n- Implemented new data pipeline to scale bigger data serving.\n- Integrated the internal platform with the product platform resulting in a time saving process automation.\n- Implemented data serving revampment to fit new analysis models.\n- Designed and implemented new interface layout.\n\nTechnology: Python, Flask, Pandas, Numpy, Vue.js and Google Cloud Platform integration",
+      "title": "Software Engineering Intern",
+      "companyUrn": "urn:li:fs_miniCompany:2135950",
+      "recommendations": null,
+      "honors": null,
+      "$type": "com.linkedin.voyager.identity.profile.Position",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1405803259)",
+      "geoLocationName": null,
+      "timePeriod": {
+        "endDate": {
+          "month": 3,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "organizations": null,
+      "company": {
+        "employeeCountRange": {
+          "start": 1001,
+          "end": 5000,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": ["Information Technology and Services"],
+        "*miniCompany": "urn:li:fs_miniCompany:2135950",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "region": null,
+      "promotion": null
+    },
+    {
+      "courses": null,
+      "projects": [
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181)"
+      ],
+      "locationName": null,
+      "geoUrn": null,
+      "companyName": "adaTeman",
+      "description": "PT Cahaya Kreasi Bangsa (adaTeman) first team which help to secure it's first seed round funding. Brainstormed with the team to form the business and technology layer of adaTeman's MVP. With my role, i'm responsible for building adaTeman.id official website and it's former business line, Mahasewa official website platform.\nTechnology: React.js and Django",
+      "title": "Fullstack Web Developer",
+      "companyUrn": "urn:li:fs_miniCompany:18750856",
+      "recommendations": null,
+      "honors": null,
+      "$type": "com.linkedin.voyager.identity.profile.Position",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325325370)",
+      "geoLocationName": null,
+      "timePeriod": {
+        "endDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 5,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "organizations": null,
+      "company": {
+        "employeeCountRange": {
+          "start": 11,
+          "end": 50,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": ["Information Technology and Services"],
+        "*miniCompany": "urn:li:fs_miniCompany:18750856",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "region": null,
+      "promotion": null
+    },
+    {
+      "courses": null,
+      "locationName": null,
+      "projects": null,
+      "geoUrn": null,
+      "companyName": "University of Indonesia",
+      "description": "Web Design &amp; Programming course is a mandatory course for semester 3 students at Faculty of Computer Science Universitas Indonesia. It provides basic but end-to-end, industry-ready knowledge on web design and programming ranging from:\n- Mockup and prototyping\n- Create, read, update, and delete object on models\n- Sessions and cookie\n- Unit test and functional test\n- Continuous integration pipeline\n- Basic web service and OAuth\n- Basic jQuery\nThe course were done by using Django Framework, Gitlab's continuous integration, and Heroku deployment. My responsibilities as a teaching assistant are grading, providing students with weekly challenges, providing personal assist and held tutorials and demo sessions. ",
+      "title": "Teaching Assistant - Web Design &amp; Programming Course",
+      "companyUrn": "urn:li:fs_miniCompany:1111713",
+      "recommendations": null,
+      "honors": null,
+      "$type": "com.linkedin.voyager.identity.profile.Position",
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1356818504)",
+      "geoLocationName": null,
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "organizations": null,
+      "company": {
+        "employeeCountRange": {
+          "start": 1001,
+          "end": 5000,
+          "$type": "com.linkedin.voyager.identity.profile.EmployeeCountRange"
+        },
+        "industries": ["Higher Education"],
+        "*miniCompany": "urn:li:fs_miniCompany:1111713",
+        "$type": "com.linkedin.voyager.identity.profile.PositionCompany"
+      },
+      "region": null,
+      "promotion": null
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1)",
+      "timePeriod": {
+        "endDate": {
+          "month": 3,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "GOJEK",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:2135950",
+      "*positions": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1405803259)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,0)",
+      "timePeriod": {
+        "startDate": {
+          "month": 3,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "Aristi Jasadata",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:13286039",
+      "*positions": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1430087953)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,4)",
+      "timePeriod": {
+        "endDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 5,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "adaTeman",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:18750856",
+      "*positions": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325325370)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,3)",
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "Callus Studio",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:11527071",
+      "*positions": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325324293)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2)",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2019,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "name": "University of Indonesia",
+      "paging": {
+        "total": 1,
+        "start": 0,
+        "count": 2,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*miniCompany": "urn:li:fs_miniCompany:1111713",
+      "*positions": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1356818504)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroup"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionGroupView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 5,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,0)",
+        "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1)",
+        "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2)",
+        "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,3)",
+        "urn:li:fs_positionGroup:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,4)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionGroupView"
+    },
+    {
+      "entityUrn": "urn:li:fs_positionView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 5,
+        "start": 0,
+        "count": 5,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1430087953)",
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1405803259)",
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1356818504)",
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325324293)",
+        "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325325370)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.PositionView"
+    },
+    {
+      "lastName": "Hazman",
+      "student": false,
+      "*miniProfile": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "backgroundImage": null,
+      "maidenName": null,
+      "geoLocationBackfilled": null,
+      "phoneticLastName": null,
+      "entityLocale": null,
+      "entityUrn": "urn:li:fs_profile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "state": null,
+      "headline": "Information Systems Student at Universitas Indonesia",
+      "phoneticFirstName": null,
+      "summary": " In a journey to enable smart society through advancement in technology. Experienced in project management, fullstack web development and data monitoring tools development. A fast learner, highly sociable and loves travelling. ",
+      "industryName": "Computer Software",
+      "supportedLocales": [
+        {
+          "country": "US",
+          "language": "en",
+          "$type": "com.linkedin.common.Locale"
+        }
+      ],
+      "locationName": "Greater Jakarta Area, Indonesia",
+      "address": null,
+      "geoCountryName": null,
+      "versionTag": "2310481644",
+      "elt": false,
+      "pictureInfo": null,
+      "profilePictureOriginalImage": null,
+      "birthDate": {
+        "month": 5,
+        "day": 31,
+        "$type": "com.linkedin.common.Date"
+      },
+      "industryUrn": "urn:li:fs_industry:4",
+      "$type": "com.linkedin.voyager.identity.profile.Profile",
+      "defaultLocale": {
+        "country": "US",
+        "language": "en",
+        "$type": "com.linkedin.common.Locale"
+      },
+      "firstName": "Favian Kharisma",
+      "profilePicture": null,
+      "showEducationOnProfileTopCard": true,
+      "geoLocation": null,
+      "geoLocationName": null,
+      "location": {
+        "basicLocation": {
+          "countryCode": "id",
+          "$type": "com.linkedin.voyager.common.NormBasicLocation"
+        },
+        "preferredGeoPlace": "urn:li:fs_region:(id,8594)",
+        "$type": "com.linkedin.voyager.identity.profile.ProfileLocation"
+      },
+      "backgroundPicture": null,
+      "backgroundPictureOriginalImage": null
+    },
+    {
+      "occupation": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325324293)",
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827)",
+      "timePeriod": {
+        "endDate": {
+          "month": 11,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 5,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: Front End Developer\nDid some front end work with W3CSS and jQuery and worked on page routing with Laravel PHP Framework",
+      "title": "IKSI UI Company Profile Website",
+      "url": "http://iksiui.com",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203417818)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203420371)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203420372)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827,203417819)"
+      ]
+    },
+    {
+      "occupation": null,
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014)",
+      "timePeriod": {
+        "endDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: Project Manager and Front End Developer\nDeveloped a company profile website and product order system with dashboard using Django Framework for \"IHA Mask\"",
+      "title": "IHA Mask Website",
+      "url": "http://ihamaskproduction.herokuapp.com",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209864787)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209866139)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209866140)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014,209863830)"
+      ]
+    },
+    {
+      "occupation": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616)",
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 11,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: Lead Developer\nBuilt as a final project of Enterprise Application Design &amp; Architecture course. Manage a team of 5 to build a Spring MVC application for hospital outpatient reservation system. The system includes a dashboard, appointment scheduling, and providing API endpoint for other system to connect.\nStack(s) used: Spring MVC, Bootstrap, jQuery, mySQL",
+      "title": "Hospital Outpatient Reservation System",
+      "url": "https://vianhazman.github.io/TA_6_7/",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203418468)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203418469)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203420266)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,203417720)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616,214592457)"
+      ]
+    },
+    {
+      "occupation": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418736565)",
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108)",
+      "timePeriod": {
+        "endDate": {
+          "month": 12,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: System Analyst\nDesigned a system proposal for Information System Design course. Built from verbal and descriptive requirements by teaching assistant. Includes the analysis of as-is and to-be system. Demonstrated the ability to analyze and deliver system design with UML diagrams and it's description such as:\n-Use Case Diagram\n-Activity Diagram\n-Class Diagram and CRC Cards\n-Sequence Diagram and Behavioral State Machine Diagram\n\nGot a final score 92.00 out of 100.",
+      "title": "System Proposal Document for Integrated Patient Information Management System",
+      "url": "https://bit.ly/2TrGmgi",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209863836)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209866147)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209864792)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209866148)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108,209864793)"
+      ]
+    },
+    {
+      "occupation": "urn:li:fs_education:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,418737540)",
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1415205623)",
+      "timePeriod": {
+        "endDate": {
+          "month": 8,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 2,
+          "year": 2015,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Designed an user interface mockup for SMA Labschool Kebayoran's music festival, Sky Avenue 2015 website.",
+      "title": "Sky Avenue Website",
+      "url": "http://skyavenue.id/2015",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1415205623,134125897)"
+      ]
+    },
+    {
+      "occupation": "urn:li:fs_position:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1325325370)",
+      "entityUrn": "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181)",
+      "timePeriod": {
+        "endDate": {
+          "month": 9,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 7,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "description": "Role: Fullstack Developer\nadaTeman is a early stage startup founded by the students of University of Indonesia. Contributed to the company profile web development.\nTechnology: React.js, Django",
+      "title": "adaTeman's Company Profile Website",
+      "url": "http://adateman.id",
+      "$type": "com.linkedin.voyager.identity.profile.Project",
+      "*members": [
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221233385)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221235323)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221232860)",
+        "urn:li:fs_contributor:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181,221233386)"
+      ]
+    },
+    {
+      "entityUrn": "urn:li:fs_projectView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 6,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411211616)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,411828108)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2024394827)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1645454181)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,875517014)",
+        "urn:li:fs_project:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1415205623)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.ProjectView"
+    },
+    {
+      "entityUrn": "urn:li:fs_publicationView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.PublicationView"
+    },
+    {
+      "entityUrn": "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2)",
+      "standardizedSkillUrn": null,
+      "name": "Java",
+      "$type": "com.linkedin.voyager.identity.profile.Skill",
+      "standardizedSkill": null
+    },
+    {
+      "entityUrn": "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,3)",
+      "standardizedSkillUrn": null,
+      "name": "Creative Conception",
+      "$type": "com.linkedin.voyager.identity.profile.Skill",
+      "standardizedSkill": null
+    },
+    {
+      "entityUrn": "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,5)",
+      "standardizedSkillUrn": null,
+      "name": "Creative Problem Solving",
+      "$type": "com.linkedin.voyager.identity.profile.Skill",
+      "standardizedSkill": null
+    },
+    {
+      "entityUrn": "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1)",
+      "standardizedSkillUrn": null,
+      "name": "Python",
+      "$type": "com.linkedin.voyager.identity.profile.Skill",
+      "standardizedSkill": null
+    },
+    {
+      "entityUrn": "urn:li:fs_skillView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 14,
+        "start": 0,
+        "count": 4,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,3)",
+        "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,5)",
+        "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1)",
+        "urn:li:fs_skill:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,2)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.SkillView"
+    },
+    {
+      "entityUrn": "urn:li:fs_testScoreView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 10,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.TestScoreView"
+    },
+    {
+      "entityUrn": "urn:li:fs_volunteerCauseView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "elements": [],
+      "paging": {
+        "total": 0,
+        "start": 0,
+        "count": 0,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerCauseView"
+    },
+    {
+      "role": "Mentor",
+      "entityUrn": "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,243713277)",
+      "companyName": "PMB Fasilkom UI",
+      "timePeriod": {
+        "endDate": {
+          "month": 11,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 6,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "cause": "EDUCATION",
+      "description": "Mentor for faculty's freshmen orientation program. Responsible for helping 36 students (specially 6) to orientate with their new life and dreams in the faculty.",
+      "company": null,
+      "companyUrn": null,
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperience"
+    },
+    {
+      "role": "Vice Person in Charge of Offline Marketing",
+      "entityUrn": "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1644695875)",
+      "companyName": "COMPFEST",
+      "timePeriod": {
+        "endDate": {
+          "month": 10,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 1,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "cause": "SCIENCE_AND_TECHNOLOGY",
+      "description": "COMPFEST is currently the biggest nonprofit information technology event in Indonesia. It is held by the students of University of Indonesia's Computer Science Faculty. The event runs for 5 months consisting of academy, competition, seminar and exhibition. More about COMPFEST: compfest.web.id",
+      "company": {
+        "*miniCompany": "urn:li:fs_miniCompany:13256769",
+        "$type": "com.linkedin.voyager.identity.profile.VolunteerExperienceCompany"
+      },
+      "companyUrn": "urn:li:fs_miniCompany:13256769",
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperience"
+    },
+    {
+      "role": "Event Manager",
+      "entityUrn": "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1644800058)",
+      "companyName": "Computers Get Together",
+      "timePeriod": {
+        "endDate": {
+          "month": 5,
+          "year": 2018,
+          "$type": "com.linkedin.common.Date"
+        },
+        "startDate": {
+          "month": 12,
+          "year": 2017,
+          "$type": "com.linkedin.common.Date"
+        },
+        "$type": "com.linkedin.voyager.common.DateRange"
+      },
+      "cause": "ARTS_AND_CULTURE",
+      "description": "Computers Get Together is Fasilkom Universitas Indonesia's annual event. Responsible for the conception and execution of the events held. Built a cross functional work environment by distributing and managing 13 staffs to handle 9 events. Used Trello and Google Drive Suite for project management such as task management document, project schedule document, project communication and coordination document.",
+      "company": {
+        "*miniCompany": "urn:li:fs_miniCompany:13580516",
+        "$type": "com.linkedin.voyager.identity.profile.VolunteerExperienceCompany"
+      },
+      "companyUrn": "urn:li:fs_miniCompany:13580516",
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperience"
+    },
+    {
+      "entityUrn": "urn:li:fs_volunteerExperienceView:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "profileId": "ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "paging": {
+        "total": 3,
+        "start": 0,
+        "count": 3,
+        "links": [],
+        "$type": "com.linkedin.restli.common.CollectionMetadata"
+      },
+      "*elements": [
+        "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1644695875)",
+        "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1644800058)",
+        "urn:li:fs_volunteerExperience:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,243713277)"
+      ],
+      "$type": "com.linkedin.voyager.identity.profile.VolunteerExperienceView"
+    },
+    {
+      "data": {
+        "sourceUrl": "https://www.slideshare.net/slideshow/embed_code/key/5rBjxxpSohKO4T",
+        "embedUrl": "www.slideshare.net/slideshow/embed_code/key/5rBjxxpSohKO4T",
+        "previewImages": [
+          {
+            "url": "https://media.licdn.com/media-proxy/ext?w=800&amp;h=800&amp;f=n&amp;hash=AMV3PMNBZ%2Faf8m9kl1c49KO0gKE%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVU0RAo5KuSpU6i4URDS8zfDW2-GGbFvo3FPSW3KJ6DOq3zol5HfC0ImRkxebz6XTTkRpShetjodMF32sLsJZWyMFRfPR971DAfuIBpaU904cX2SP_4dSNM3O1RYWG3I762ZFBiW3BiqLzddNeNcQ",
+            "$type": "com.linkedin.voyager.common.MediaProxyImage"
+          }
+        ],
+        "width": 479,
+        "embedHtml": "&lt;iframe src=\"https://www.slideshare.net/slideshow/embed_code/key/5rBjxxpSohKO4T\" width=\"479\" height=\"511\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=\"margin-bottom:5px\"&gt; &lt;strong&gt; &lt;a href=\"https://www.slideshare.net/secret/5rBjxxpSohKO4T\" title=\"Favian-Resume\" target=\"_blank\"&gt;Favian-Resume&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=\"https://www.slideshare.net/linkedincontent_66c\" target=\"_blank\"&gt;linkedincontent_66c&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;\n\n",
+        "url": "https://www.slideshare.net/slideshow/embed_code/key/5rBjxxpSohKO4T",
+        "height": 511,
+        "$type": "com.linkedin.voyager.identity.profile.treasury.RichText"
+      },
+      "entityUrn": "urn:li:fs_treasuryMedia:(ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4,1555049186344)",
+      "customDescription": "",
+      "description": null,
+      "customTitle": "Resume",
+      "title": null,
+      "providerName": null,
+      "$type": "com.linkedin.voyager.identity.profile.treasury.TreasuryMedia"
+    },
+    {
+      "firstName": "Nikmah",
+      "lastName": "Salsabila",
+      "occupation": "Information System Student at University of Indonesia",
+      "objectUrn": "urn:li:member:574481627",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACI95NsBdvRyhvc8xc9fALqzwsZfz1o8hWk",
+      "backgroundImage": null,
+      "publicIdentifier": "nikmah-salsabila",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=uKwhbkK-_uGtAwmf05DYFoFg0HIDPtynLVyvxZ2H7q0",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=oZVFfjZN1axFSvrdq7XrmfRJufKvHUlW__eIkv5Kkac",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=QksRaw6NumjK-dyhgzhihit16KLiDom1Cx1EpIVI6qk",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=BNIMMRI4MRyYF5iNLRT0D3X4MPehsyJrVUX-hpzzRxs",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQFdFhb3ltWjcg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "bbtIMWM1RUuyUQlpHvjh5w==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Jordan",
+      "lastName": "Andrianda",
+      "occupation": "Product Design Intern at Bizzy Indonesia",
+      "objectUrn": "urn:li:member:667753651",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACfNHLMBtBqVtZ1Dc6MnNg4TRTrWjU84Tx8",
+      "backgroundImage": null,
+      "publicIdentifier": "jordan-andrianda",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=8PuQ0A8ylqrjx-iP0LWk2868ulKljBIrGwEGyb2Bw-0",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=pQpwbGl8DnnlMvSnxDdRAreoS7oGCxzC9FJ6E2xkh28",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=rWGzu-pQvy0fj_Z9RiYoj0-GCzUmjCbFwRaHzIYMZ7I",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=6g3XTLUJdmSMV7BvXH4IJldSCBG4g-RnBqo4ZleE7H8",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQGQp-IdB5oAeQ/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "cIrD81/DTc+rIo2R4DnleQ==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Purwo Aji",
+      "lastName": "Fahmi Akmal",
+      "occupation": "Siswa di Universitas Indonesia (UI)",
+      "objectUrn": "urn:li:member:596997857",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACOVduEBDVUudVFbDG1NMqoh2wSENDqwNcw",
+      "backgroundImage": null,
+      "publicIdentifier": "purwoajifa",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=JTK5IuLtzUTu1elmoErfcRSSNe1CCxC1e2jxal6xqzk",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=xTBLjj1bSDNafAgCb255EgKZ7u11UpP2pfxWyD22khg",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=puwh7wpmfsnb162pSN_ME0sFPGQMc2MG-p8_EC8r3nI",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=iX42GK2s-tlUeK4PuvJ4GDEYXaj95dRh5-7eAGBamu4",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D03AQGN2h4D6ltaHg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "eU8+G6vfT7yVYKSdGzHf7w==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Roshani Ayu",
+      "lastName": "Pranasti",
+      "occupation": "Computer Science Student at University of Indonesia",
+      "objectUrn": "urn:li:member:589954025",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACMp--kBs7tSFZli-U8crprOGHv_7PSzDWk",
+      "backgroundImage": {
+        "artifacts": [
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "200_800/0?e=1562198400&amp;v=beta&amp;t=uKV6TCyBckLHwtyt9BPbp8yTpnyFCsu8aog5WiiTVrY",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 1400,
+            "fileIdentifyingUrlPathSegment": "350_1400/0?e=1562198400&amp;v=beta&amp;t=3yhRYh-LIm9o9d5kJpq9ixRK1ANpvhIKO5hefLgg9pY",
+            "expiresAt": 1562198400000,
+            "height": 350,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5116AQGTjg7eFJcfew/profile-displaybackgroundimage-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "publicIdentifier": "roshani-ayu-pranasti",
+      "picture": null,
+      "trackingId": "E5ZpqIJuTLG74brnpmaRdw==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Reza Akbar",
+      "lastName": "Shahputra",
+      "occupation": "Undergraduate Information System Student at University of Indonesia",
+      "objectUrn": "urn:li:member:714554060",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACqXOswBtxzFNtqRsGeGCFM8hOERMFT3ky8",
+      "backgroundImage": null,
+      "publicIdentifier": "rezaakbars",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=ExP_xg1JYrezAad801TY77-ND2BHBh76J88VJ_MPMA0",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=o1RpMybSRhfxnsSetHe28rmdCmzn52To9VhlGVDS83c",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=G-xeNm7EeSAQsFp2-ElS1XoiasT--hQuMZWNFgtuhxY",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=zwK_rcJAGJRi4K5z_VdNBRaFQOw6moSU5M2suyOukIA",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4E03AQGvLRmU9GUKsg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "KuOh+zKfTfaElorIl2QgpQ==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Favian Kharisma",
+      "lastName": "Hazman",
+      "occupation": "Information Systems Student at Universitas Indonesia",
+      "objectUrn": "urn:li:member:577992123",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4",
+      "backgroundImage": null,
+      "publicIdentifier": "favian-kharisma-hazman-22369a141",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=YnNOkAN8vFPAfXG1eRR-sKjXCnqVWQETynQeROUPgVM",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=RQmP3EbCBlRART5kE6wHSgq76Td4ASuDx4Td6384Ew0",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=y5ceo5FbOh55vWzHJzl-qEf7C_y5XKELvRfTV7anu2U",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=BE8YqlBnAo73FX6i62YO4Yrl7PWyDwDUQJI5kVY0jkY",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQECikARO0mmpw/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "z7lvVb6kTwmXfk9AzOUHpA==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Mona",
+      "lastName": "Natasha",
+      "occupation": "Treasurer at RISTEK Fakultas Ilmu Komputer Universitas Indonesia",
+      "objectUrn": "urn:li:member:622893299",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACUgmPMB4q0n6kPK0_6LOpp73UExIIMNceA",
+      "backgroundImage": null,
+      "publicIdentifier": "monatashaa",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=-n8C5jTTmuxlCtPu0Wkpa6_PonBPP2Stp9BXgTEcBnA",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=2wZV5nCVr2XkGKwLAnwD1pbs1rat0mrieZaszFQGDiQ",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=IoX85-lT4AZWKIyTyT6GMO4FqeG88CDkRHNLvALMb9c",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=b7KA__-st46lvO0H9I8a-z5Pl71UnwjvEwfiy6KpHzA",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5603AQEkMNoaJX6c1A/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "0ojO1HifSYOUBMNaLOz2Yg==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Azhar",
+      "lastName": "Kurnia",
+      "occupation": "Databases Teaching Assistant at Universitas Indonesia",
+      "objectUrn": "urn:li:member:628670577",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACV4wHEB_xCGEIMQEOR4iBShoNCN84lIvZc",
+      "backgroundImage": null,
+      "publicIdentifier": "azharkurnia",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=8jJ6E9m3fcqGoIEEt205QdJ9WvUtirDbTiuIWk5CN4A",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=8JIQZcXKocP1AOiCHbmmpfa-s_OPDbHDVZU7iw4RIF4",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=ME428y9W_oVpqiS-rT4_FiOX3YtQVf3fd-NWzZelfnA",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=kCfgESJBGYVBO38TU5CSMDOqSpWRZBXhiKVGnb1Z084",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQFdVxLSKw6vQw/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "/aYlQFN/TR+pbkz9RlKqtQ==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Danang",
+      "lastName": "Joewono",
+      "occupation": "Chief Product Officer at adaTeman",
+      "objectUrn": "urn:li:member:505460148",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAAB4gtbQB6_5GWC_J5gB9AAZ5zEqbClIrw2U",
+      "backgroundImage": null,
+      "publicIdentifier": "danangjoewono",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=yWr56WOFdWia7T-GDKXufHcTx72sAuvkXYl6u-LZzqo",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=NeYUGylLCG0A0nAdVW1SWAZIYDnYYVVkKe4Tgl6Civg",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=SpztnazGbKmPHKryrAB2hEpCTTIQ-GN2w67z05fyfDA",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=-x4n7KT4U-QiJJJ14ztl2CwVSzfilK4mZ2nbeFrwvrk",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQGCRqDvDs9qYg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "mMGjytj8Qe2YpWrRyKrIAw==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Muhammad Faisal",
+      "lastName": "Ridwan",
+      "occupation": "Software Engineer Intern at GOJEK",
+      "objectUrn": "urn:li:member:507175531",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAAB464msB8g2sRdWix2kZ0nL5MG70X0oKOQ8",
+      "backgroundImage": null,
+      "publicIdentifier": "faisal-ridwan",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=QUf9LpCCeZ1XMGyY-bMj2cwe6luovRu1brTz7NM_PL8",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=RRWxbjCM2MCpkEdm2EuU-jRv2dIrX3Yx8FwGkJ4E_7w",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=JmozlQdDTkuWWtVay04DhmFoMsds03m5Qqu6bYK1PzQ",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=xCps6MWYiqj_F-SO5jbF2FcdAVZPhNWeHDzF2ZHOn_g",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQEoqw3bwA8OIw/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "lchqcyHbTyiHNxNcQ5UyfA==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Muhamad Istiady",
+      "lastName": "Kartadibrata",
+      "occupation": "Front End Developer at adaTeman",
+      "objectUrn": "urn:li:member:681576485",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACigCCUBSNSDNxLJhBjzZb7Kzppt6gDB5r0",
+      "backgroundImage": null,
+      "publicIdentifier": "adykarta",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=PrryOtUKlhnkS0onIE96tZ7n0YmhSgFEEFMGW-XPmlM",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=oSNqQS5LN-UB6q0rWs1lMpAAvO3oZVt9o0bg6RGBo80",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=oXM8WW-cCN3SvrfD8MZQ-R_MQOs3rF5x_rQC-CuAW1I",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=a61JN5u3DIt2n9YKjOfagDnAG0S1Q8mz5ft-52ebcs4",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQF6a3p8jlhIfg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "Z2VlsEFpSIWO64kTt4Muow==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Muhammad Erlangga",
+      "lastName": "Rianto",
+      "occupation": "Mahasiswa di Universitas Indonesia (UI)",
+      "objectUrn": "urn:li:member:648898014",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACatZd4B7J8r8_6sKiMteVGEgEX9uIjSJ7U",
+      "backgroundImage": null,
+      "publicIdentifier": "erlrianto",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=RpSmNwlWgfOFB6RFlz-9b9qZpJyrgtizZsJ_jbCTkO0",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=iviCYEqbjEb_cSx-xEZ5RdVE4ewoz0uZ5m_Po5_XG8U",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=byqN4K2Bzwxim8eWGFIHr_mJmULHbpZAMYGk8-nUEog",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=-RXpSVUppzhZOlL97EMmtRopZTFmxuVnPxbUYD2MJds",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C4D03AQH9F_10O6WHkA/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "UKhEEVyDSim3MZDWXjhdDQ==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Fajrin",
+      "lastName": "Kingwijati",
+      "occupation": "Product Leader &amp; Tech Partner at KOTA Digivice | We are hiring!",
+      "objectUrn": "urn:li:member:549667057",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACDDQPEBOZfQASRdNGsrNndjVzsluIlVGws",
+      "backgroundImage": {
+        "artifacts": [
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "200_800/0?e=1562198400&amp;v=beta&amp;t=pyd7rwMGtabc5OvqkMvs3D0rKXR6Ns5TFfFhjxWGXuc",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 1400,
+            "fileIdentifyingUrlPathSegment": "350_1400/0?e=1562198400&amp;v=beta&amp;t=0TPDj6lL382OaZiejvfXh26PFejPix3ZY6MrXALz0ik",
+            "expiresAt": 1562198400000,
+            "height": 350,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5116AQF34UdjZHr6yg/profile-displaybackgroundimage-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "publicIdentifier": "fajrinmk",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=x5uubZpoVlsyMsgwYXa3cU7PaXY7XYSq-G40daPOs7c",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=aPun4h-5pJY7rCKj-LAWke_jqpU6iUg2O3DKZJJUzgM",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=xetguR15kOaTpp4MIkYIV7_HSdmM176y-tOUfufw7IM",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=Ny94DKJEmKBfcrVs77X5Dz43FGoVJQaqmP1guMx2u04",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQHV0_LP0hVGLg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "L+5kQQGMS+2R0hOitHePTA==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Ivan",
+      "lastName": "Abdurrahman",
+      "occupation": "Student at University of Indonesia",
+      "objectUrn": "urn:li:member:254069581",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAAA8ky00BNKba7ltHzi5TN8UrdSlUSCdZ9f4",
+      "backgroundImage": null,
+      "publicIdentifier": "ivanabdu",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=dLyfLft9IgwS3yqxqaN1de68t8VTlsgU5Y5XIwaz88Q",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=IY3YYZ-3jDQ3ABG7bUbmPQfj1b2MTi2wYOmD1Wzlx8g",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=sAa1BFgsqJO06e2E67KO6lu-Lmo3N0OqVbLZfGj3SIQ",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=vJR0NdMEMR8vFyG0sDbTWu0b2iu60SyErWyJSoYfk5U",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQFV_ME_OoZ-Fg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "auz7OTS3QzKQCvlcke1UiA==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    },
+    {
+      "firstName": "Putri Rahma",
+      "lastName": "Arifa",
+      "occupation": "Undergraduate student at Universitas Indonesia",
+      "objectUrn": "urn:li:member:566863458",
+      "entityUrn": "urn:li:fs_miniProfile:ACoAACHJpmIB2J3K4zX2B8YaFpTy7uv0HVP0bHA",
+      "backgroundImage": null,
+      "publicIdentifier": "putrirahmarifa",
+      "picture": {
+        "artifacts": [
+          {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/0?e=1562198400&amp;v=beta&amp;t=wreyxICzPqZsodxADtxNnMpK2iEjOf0dvc9DuADfU00",
+            "expiresAt": 1562198400000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/0?e=1562198400&amp;v=beta&amp;t=kxerT45PtQh2SFNKpAhTFCG92MfBewr8WhL6Us_-koA",
+            "expiresAt": 1562198400000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/0?e=1562198400&amp;v=beta&amp;t=mT548GMCJQH6tJ5NUuFGUTVm3cHlwpLBCpdtDbeJ8tA",
+            "expiresAt": 1562198400000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+          },
+          {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/0?e=1562198400&amp;v=beta&amp;t=DHRQAzbvvJsSTs25rxRurNEKMuuD2blk5N87VBphue4",
+            "expiresAt": 1562198400000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+          }
+        ],
+        "rootUrl": "https://media.licdn.com/dms/image/C5103AQFQNO8UPw4xJg/profile-displayphoto-shrink_",
+        "$type": "com.linkedin.common.VectorImage"
+      },
+      "trackingId": "RVw061ejSg6hjxFB4aHYEQ==",
+      "$type": "com.linkedin.voyager.identity.shared.MiniProfile"
+    }
+  ]
+}

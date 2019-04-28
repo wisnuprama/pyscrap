@@ -1,0 +1,853 @@
+{
+  "metadata": {
+    "searchId": "5ec94eab-5908-4f8e-bd7d-47d7e471c44a",
+    "totalResultCount": 676,
+    "origin": "MEMBER_PROFILE_CANNED_SEARCH",
+    "numVisibleResults": 10,
+    "$type": "com.linkedin.voyager.search.BlendedSearchMetadata"
+  },
+  "entityUrn": "urn:li:collectionResponse:uZ7sSRuc4q29I2P7qAoskugikjGzxJtL0wJZ6lwNS7s=",
+  "elements": [
+    {
+      "extendedElements": [
+        {
+          "searchTieIn": "FREE_UPSELL",
+          "type": "SEARCH_TIE_IN",
+          "$type": "com.linkedin.voyager.search.ExtendedSearchHit"
+        }
+      ],
+      "elements": [],
+      "type": "SEARCH_FEATURES",
+      "$type": "com.linkedin.voyager.search.BlendedSearchCluster"
+    },
+    {
+      "extendedElements": [],
+      "elements": [
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAACIhTPMByDBiZg0oqieNLpwYfD7ve-Ayb7c",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAACIhTPMByDBiZg0oqieNLpwYfD7ve-Ayb7c",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACZ5tO4BeEMyOBv0V6nMzeZZygMybss4eDA",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:572607731",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Ahmad Satryaji Aulia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "200 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAACIhTPMByDBiZg0oqieNLpwYfD7ve-Ayb7c",
+          "publicIdentifier": "satryaji",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "President of RISTEK Fasilkom UI",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "Nvdazf0eRLiR0GP+g20VKw=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAACDoPUkBnOICQMT1utVq7tdETUlxhzRZj20",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAACDoPUkBnOICQMT1utVq7tdETUlxhzRZj20",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACIhTPMByDBiZg0oqieNLpwYfD7ve-Ayb7c",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAAB-rWu4BUb_1ZVnQKBUIHsJ5_15IwVvTTpU",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:552090953",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Fikri Ahmad",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "95 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAACDoPUkBnOICQMT1utVq7tdETUlxhzRZj20",
+          "publicIdentifier": "fikriahmad26",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Student at University of Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "West Java Province, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "vD28+MlASluauZY1kISl7A=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAABiHfIkBcReH5g2KahtKe82qqjI1VKK-3OE",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAABiHfIkBcReH5g2KahtKe82qqjI1VKK-3OE",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAAB-rWu4BUb_1ZVnQKBUIHsJ5_15IwVvTTpU",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACUFXR8BSF9lspAUg4ynhKJVwkcLfSeizNs",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:411532425",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Fata Nugraha",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "112 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAABiHfIkBcReH5g2KahtKe82qqjI1VKK-3OE",
+          "publicIdentifier": "fatanugraha",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Part Time Software Engineer at Dekoruma",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "4jAoAvXRSZWtuZdTzSICkw=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAABG92MIBhik9Yph06K-re4I_QbhGkbxwRJE",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAABG92MIBhik9Yph06K-re4I_QbhGkbxwRJE",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACZ5tO4BeEMyOBv0V6nMzeZZygMybss4eDA",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:297654466",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Mochamad Aulia Akbar Praditomo",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "219 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAABG92MIBhik9Yph06K-re4I_QbhGkbxwRJE",
+          "publicIdentifier": "praditomo",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Manager of Project Management at RISTEK | Ex OVO and GDP Labs",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "EUXLQETtSDOC2QdPlkU5Kw=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAACGHY98BaFADFQ8yYw3NCd5lAg3KNZcJZK0",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAACGHY98BaFADFQ8yYw3NCd5lAg3KNZcJZK0",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABvA3FoBBsDagOy9fEZsYGAUFVlqtmXGQo4",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:562521055",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Luthfi Aulia Sulaiman",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "233 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAACGHY98BaFADFQ8yYw3NCd5lAg3KNZcJZK0",
+          "publicIdentifier": "luthfi-sulaiman",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Final Year Computer Science Student",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "rojX3pTmRu6Tmfl65vxnsg=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_2",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAAB-SWTYB5WB6Gbb3G2vhFjP05pdCL72B7BA",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAAB-SWTYB5WB6Gbb3G2vhFjP05pdCL72B7BA",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACZ5tO4BeEMyOBv0V6nMzeZZygMybss4eDA",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACW2eiYB48ClfdPFA-e5crQx5yd3O8AucWQ",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:529684790",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Regensa Cahyanto",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "118 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "2nd",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAAB-SWTYB5WB6Gbb3G2vhFjP05pdCL72B7BA",
+          "publicIdentifier": "regensa-cahyanto",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Student at University of Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "/gERxkpYQT633YK/OxhUQw=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAAB7DlB4B-KLsbUCIvoJvQAlXFyHDxgk1Hu4",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAAB7DlB4B-KLsbUCIvoJvQAlXFyHDxgk1Hu4",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACZ5tO4BeEMyOBv0V6nMzeZZygMybss4eDA",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAAB8dRh0Buszh9BWEsVK8m-4MDtZMDKy3Vc8",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:516133918",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Ivana Irene Thomas",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "201 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAAB7DlB4B-KLsbUCIvoJvQAlXFyHDxgk1Hu4",
+          "publicIdentifier": "ivana-irene-thomas",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Software Engineer Intern at Facebook",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "Q94pcO+bTyGpHTVafoIOJw=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_2",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAABddcwUBViuNf_cCtA0jeAtgiJyLmZUO5RM",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAABddcwUBViuNf_cCtA0jeAtgiJyLmZUO5RM",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAAAy_JYYBKvSSXYJeodt0qlf6pR1NMZN5RnU",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:392000261",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Fandika Okdiba",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "126 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "2nd",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAABddcwUBViuNf_cCtA0jeAtgiJyLmZUO5RM",
+          "publicIdentifier": "fandok",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Software Engineer at Tokopedia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "Sp8ikCPYTRC2Bx3sMvN7xQ=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_2",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAABXNr2IBd-JWtExtZT49MxmIBT8gwFX4OuQ",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAABXNr2IBd-JWtExtZT49MxmIBT8gwFX4OuQ",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAAB32MYUBVwQKDQU2J7-YSufEIbUZyQfbMKo",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:365801314",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Tengku Huday Ilahi",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "124 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "2nd",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAABXNr2IBd-JWtExtZT49MxmIBT8gwFX4OuQ",
+          "publicIdentifier": "tengku-huday-ilahi",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Data Analyst at Tokopedia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Greater Jakarta Area, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "bkhv1vDER7uHtdfzyeMrQA=="
+        },
+        {
+          "memberDistance": {
+            "value": "DISTANCE_1",
+            "$type": "com.linkedin.voyager.common.MemberDistance"
+          },
+          "image": {
+            "attributes": [
+              {
+                "sourceType": "PROFILE_PICTURE",
+                "*miniProfile": "urn:li:fs_miniProfile:ACoAACGQbfUBRBHPAB5J9ZyOW2xzUyLWGnzC1tg",
+                "$type": "com.linkedin.voyager.common.ImageAttribute"
+              }
+            ],
+            "accessibilityTextAttributes": [],
+            "$type": "com.linkedin.voyager.common.ImageViewModel"
+          },
+          "targetUrn": "urn:li:fs_miniProfile:ACoAACGQbfUBRBHPAB5J9ZyOW2xzUyLWGnzC1tg",
+          "socialProofImagePile": [
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACC5TEcB8d2kCPMuI7KXDB_O44p4SsfjmhY",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAABc6CwYBIol_b6JhY2Ttvb0_fCj27y1bmz0",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            },
+            {
+              "attributes": [
+                {
+                  "sourceType": "PROFILE_PICTURE",
+                  "*miniProfile": "urn:li:fs_miniProfile:ACoAACZ5tO4BeEMyOBv0V6nMzeZZygMybss4eDA",
+                  "$type": "com.linkedin.voyager.common.ImageAttribute"
+                }
+              ],
+              "accessibilityTextAttributes": [],
+              "$type": "com.linkedin.voyager.common.ImageViewModel"
+            }
+          ],
+          "trackingUrn": "urn:li:member:563113461",
+          "title": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Raihan Mahendra Sutanto",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "type": "PROFILE",
+          "$type": "com.linkedin.voyager.search.SearchHitV2",
+          "headless": False,
+          "socialProofText": "173 shared connections",
+          "secondaryTitle": {
+            "textDirection": "USER_LOCALE",
+            "text": "1st",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "*badges": "urn:li:fs_memberBadges:ACoAACGQbfUBRBHPAB5J9ZyOW2xzUyLWGnzC1tg",
+          "publicIdentifier": "raihanmhndr",
+          "headline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "Teaching Assistant of Statistics and Probability at University of Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "nameMatch": False,
+          "subline": {
+            "textDirection": "FIRST_STRONG",
+            "text": "West Java Province, Indonesia",
+            "$type": "com.linkedin.voyager.common.TextViewModel"
+          },
+          "trackingId": "rvv3HtTCQ7q3V1Er32IwYA=="
+        }
+      ],
+      "type": "SEARCH_HITS",
+      "$type": "com.linkedin.voyager.search.BlendedSearchCluster"
+    }
+  ],
+  "paging": { "total": 676, "count": 10, "start": 0, "links": [] },
+  "$type": "com.linkedin.restli.common.CollectionResponse"
+}
