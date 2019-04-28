@@ -1,3 +1,7 @@
+SKILLS = 'skills'
+SCHOOLS = 'schools'
+WORKS = 'works'
+
 DATA = 'data'
 INCLUDED = 'included'
 FULL_NAME = 'fullName'
@@ -14,3 +18,14 @@ MEMBER_DISTANCE_VALUE = 'value'
 PUBLIC_IDENTIFIER = 'publicIdentifier'
 TITLE = 'title'
 TITLE_USER_FULL_NAME = 'text'
+
+COMPANY_NAME = 'companyName'
+TIME_PERIOD = 'timePeriod'
+COMPANY = 'company'
+
+SCHOOL_NAME = 'schoolName'
+FIELD_OF_STUDY = 'fieldOfStudy'
+DEGREE_NAME = 'degreeName'
+
+SKILL_NAME = 'name'
+SKILL_KEY = 'standardizedSkill'

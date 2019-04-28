@@ -1,0 +1,467 @@
+{
+  'id': 'ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4',
+  'data': {
+    'lastName': 'Hazman',
+    'student': False,
+    '*miniProfile': 'urn:li:fs_miniProfile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4',
+    'backgroundImage': None,
+    'maidenName': None,
+    'geoLocationBackfilled': None,
+    'phoneticLastName': None,
+    'entityLocale': None,
+    'entityUrn': 'urn:li:fs_profile:ACoAACJzdbsBedML7usPTYr05-yMP9hHkQUeMz4',
+    'state': None,
+    'headline': 'Information Systems Student at Universitas Indonesia',
+    'phoneticFirstName': None,
+    'summary': ' In a journey to enable smart society through advancement in technology. Experienced in project management, fullstack web development and data monitoring tools development. A fast learner, highly sociable and loves travelling. ',
+    'industryName': 'Computer Software',
+    'supportedLocales': [
+      {
+        'country': 'US',
+        'language': 'en',
+        '$type': 'com.linkedin.common.Locale'
+      }
+    ],
+    'locationName': 'Greater Jakarta Area, Indonesia',
+    'address': None,
+    'geoCountryName': None,
+    'versionTag': '2310481644',
+    'elt': False,
+    'pictureInfo': None,
+    'profilePictureOriginalImage': None,
+    'birthDate': {
+      'month': 5,
+      'day': 31,
+      '$type': 'com.linkedin.common.Date'
+    },
+    'industryUrn': 'urn:li:fs_industry:4',
+    '$type': 'com.linkedin.voyager.identity.profile.Profile',
+    'defaultLocale': {
+      'country': 'US',
+      'language': 'en',
+      '$type': 'com.linkedin.common.Locale'
+    },
+    'firstName': 'Favian Kharisma',
+    'profilePicture': None,
+    'showEducationOnProfileTopCard': True,
+    'geoLocation': None,
+    'geoLocationName': None,
+    'location': {
+      'basicLocation': {
+        'countryCode': 'id',
+        '$type': 'com.linkedin.voyager.common.NormBasicLocation'
+      },
+      'preferredGeoPlace': 'urn:li:fs_region:(id,8594)',
+      '$type': 'com.linkedin.voyager.identity.profile.ProfileLocation'
+    },
+    'backgroundPicture': None,
+    'backgroundPictureOriginalImage': None
+  },
+  'connections': [
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fikriahmad26',
+      'fullName': 'Fikri Ahmad'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'fatanugraha',
+      'fullName': 'Fata Nugraha'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'praditomo',
+      'fullName': 'Mochamad Aulia Akbar Praditomo'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'luthfi-sulaiman',
+      'fullName': 'Luthfi Aulia Sulaiman'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'regensa-cahyanto',
+      'fullName': 'Regensa Cahyanto'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'ivana-irene-thomas',
+      'fullName': 'Ivana Irene Thomas'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'fandok',
+      'fullName': 'Fandika Okdiba'
+    },
+    {
+      'memberDistance': 'DISTANCE_2',
+      'publicIdentifier': 'tengku-huday-ilahi',
+      'fullName': 'Tengku Huday Ilahi'
+    },
+    {
+      'memberDistance': 'DISTANCE_1',
+      'publicIdentifier': 'raihanmhndr',
+      'fullName': 'Raihan Mahendra Sutanto'
+    }
+  ]
+}
