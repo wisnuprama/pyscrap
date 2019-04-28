@@ -8,7 +8,7 @@ Install dependencies, please install [pipenv](https://pypi.org/project/pipenv/).
 ```$bash
 $ pipenv shell --three && pipenv install
 ```
-To scrap, we need to be authenticated by providing the cookies in JSON format.
+To scrap, we need to be authenticated by providing our linkedin cookies in JSON format.
 You can get your cookies with some chrome extension like [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=id)
 and follow its instruction. After that create a JSON file and paste in.
 
