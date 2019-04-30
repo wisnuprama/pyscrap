@@ -20,10 +20,12 @@ if __name__ == '__main__':
             mhs_data = f'{mhs.get(NPM)} {mhs.get(NAMA)}'
             try:
                 if mhs.get(USERNAME):
-                    url = f'https://www.linkedin.com/in/{mhs.get(USERNAME)}/'
+                    mhs_username = str(mhs.get(USERNAME)).strip()
+                    url = f'https://www.linkedin.com/in/{mhs_username}/'
                     result = full_scrap(url, cookies)
                     if result:
                         cleaned = dict()
+                        cleaned['publicIdentifier'] = mhs_username
                         cleaned['id'] = result['id']
                         cleaned['connections'] = result['connections']
                         user_fields = ('firstName', 'lastName', 'locationName',
