@@ -1,6 +1,7 @@
 .idea
 .vscode
 cookies.json
+ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
