@@ -13,7 +13,7 @@ if __name__ == '__main__':
     cookies = deserialize_cookies('../cookies.json')
     total = 1
     list_scraped = []
-    with open('../test_dataset.csv') as dataset:
+    with open('../dataset.csv') as dataset:
         input_file = DictReader(f=dataset, fieldnames=(NPM, NAMA, USERNAME))
 
         for mhs in input_file:
