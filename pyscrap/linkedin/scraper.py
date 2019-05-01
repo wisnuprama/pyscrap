@@ -1,5 +1,5 @@
 import json
-
+import math
 import requests
 from bs4 import BeautifulSoup
 
@@ -108,22 +108,36 @@ def find_connection_data(code_tags):
             pass
 
 
+def get_max_page(user_key: str, cookies: dict) -> int:
+    url = settings.SEARCH_URL.format(user_key=user_key, page=1)
+    response = requests.get(url, cookies=cookies)
+
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        code_tags = soup.find_all('code')
+        data = find_connection_data(code_tags)
+        if data:
+            metadata = data.get('metadata')
+            return math.ceil(metadata.get('totalResultCount') / metadata.get('numVisibleResults'))
+    return 0
+
 def scrap_connection(user_key: str, cookies: dict) -> list or None:
-    current_page = 1
+    start_page = 1
     full_connection = []
-    for i in range(current_page, settings.MAX_PAGE):
+
+    max_page = get_max_page(user_key, cookies)
+    for current_page in range(start_page, max_page + 1):
         url = settings.SEARCH_URL.format(user_key=user_key, page=current_page)
         response = requests.get(url, cookies=cookies)
-
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             code_tags = soup.find_all('code')
             data = find_connection_data(code_tags)
             try:
-                el_lvl0 = data.get(settings.ELEMENTS)[1]
+                el_lvl0 = data.get(settings.ELEMENTS)[len(data.get(settings.ELEMENTS))-1]
                 full_connection += extracting_user_connection(el_lvl0.get(settings.ELEMENTS))
-            except:
-                pass
+            except Exception as e:
+                print(e)
     return full_connection
 
 

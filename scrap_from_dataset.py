@@ -10,10 +10,10 @@ USERNAME = 'Username'
 
 
 if __name__ == '__main__':
-    cookies = deserialize_cookies('./cookies.json')
+    cookies = deserialize_cookies('../cookies.json')
     total = 1
     list_scraped = []
-    with open('./ignore/dataset.csv') as dataset:
+    with open('../test_dataset.csv') as dataset:
         input_file = DictReader(f=dataset, fieldnames=(NPM, NAMA, USERNAME))
 
         for mhs in input_file:
@@ -41,6 +41,6 @@ if __name__ == '__main__':
                 print('(Failed)', total, mhs_data, e)
                 continue
 
-    with open('./result.json', 'w') as json_file:
+    with open('../result.json', 'w') as json_file:
         json.dump(list_scraped, fp=json_file)
         print('Complete!', total)
